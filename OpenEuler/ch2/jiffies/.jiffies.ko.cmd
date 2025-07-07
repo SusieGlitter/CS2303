@@ -1,0 +1,1 @@
+cmd_/home/gg/Desktop/os/ch2/jiffies/jiffies.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/gg/Desktop/os/ch2/jiffies/jiffies.ko /home/gg/Desktop/os/ch2/jiffies/jiffies.o /home/gg/Desktop/os/ch2/jiffies/jiffies.mod.o ;  true

@@ -4,7 +4,7 @@
 
 ## 评分标准
 
-代码+报告参与评分，需要线下cr，本届有2'bonus，若有四个以上实验使用伟大的华为的伟大的自研国产操作系统OpenEuler，获得1'bonus，八个实验完全国产，获得2'bonus
+代码+报告参与评分，需要线下cr，本届有2'bonus，若有四个以上实验使用华为的国产操作系统OpenEuler，获得1'bonus，八个实验完全国产，获得2'bonus
 
 据说下一届不再能使用Ubuntu，而是强制使用OpenEuler，我先用Ubuntu写了一遍，再用OpenEuler重新跑了一遍，区别不大，但是OpenEuler在配环境等方面较为恶心
 
